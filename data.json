@@ -1,0 +1,32 @@
+{
+    "projects": [
+      {
+        "id": 0,
+        "name": "Project One",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "technologies": ["Node.js", "Express", "Pug"],
+        "liveLink": "https://example.com",
+        "githubLink": "https://github.com/example/project-one",
+        "imageUrls": ["img/project-one-main.png", "img/project-one-1.png", "img/project-one-2.png", "img/project-one-3.png"]
+      },
+      {
+        "id": 1,
+        "name": "Project Two",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "technologies": ["", "", ""],
+        "liveLink": "https://example.com",
+        "githubLink": "https://github.com/example/project-two",
+        "imageUrls": ["img/project-two-main.png", "img/project-two-1.png", "img/project-two-2.png", "img/project-two-3.png"]
+      },
+      {
+        "id": 2,
+        "name": "Project Three",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "liveLink": "https://example.com",
+        "githubLink": "https://github.com/example/project-three",
+        "imageUrls": ["img/project-three-main.png", "img/project-three-1.png", "img/project-three-2.png", "img/project-three-3.png"]
+      }
+    ]
+  }
+  
