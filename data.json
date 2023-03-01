@@ -2,8 +2,8 @@
     "projects": [
       {
         "id": 1,
-        "name": "Project One",
-        "description": "Random Quote Generator",
+        "name": "Random Quote Generator",
+        "description": "This project is a simple app that displays random famous quotes each time a button is clicked. The app is built using basic JavaScript syntax, variables, loops, conditionals, and object literals.",
         "technologies": ["JavaScript"],
         "liveLink": "https://alichegini.github.io/random-quote-generator/",
         "githubLink": "https://github.com/AliChegini/random-quote-generator",
@@ -11,8 +11,8 @@
       },
       {
         "id": 2,
-        "name": "Project Two",
-        "description": "Pagination",
+        "name": "Pagination",
+        "description": "This project aims to enhance the usability of a web page that displays too much information all at once. The problem of long lists making for a poor user experience is solved using a popular web development technique called pagination.",
         "technologies": ["JavaScript", "HTML", "CSS"],
         "liveLink": "https://alichegini.github.io/list_pagination_and_filtering/",
         "githubLink": "https://github.com/AliChegini/list_pagination_and_filtering",
@@ -20,17 +20,17 @@
       },
       {
         "id": 3,
-        "name": "Project Three",
-        "description": "Interactive Form",
-        "technologies": ["JavaScript", "jQuery"],
+        "name": "Interactive Form",
+        "description": "This project enhances an interactive registration form for a fictional conference called FullStack Conf using JavaScript. The project uses the supplied HTML and CSS files, and adds customised and conditional behavior and interactivity to make the form more user-friendly.",
+        "technologies": ["JavaScript", "jQuery", "HTML", "CSS"],
         "liveLink": "https://alichegini.github.io/interactive-form/",
         "githubLink": "https://github.com/AliChegini/interactive-form",
         "imageUrls": ["images/3.png"]
       },
       {
         "id": 4,
-        "name": "Project Four",
-        "description": "Object Oriented Game",
+        "name": "Object Oriented Game",
+        "description": "This project involves creating a browser-based word guessing game called Phrase Hunter using JavaScript and OOP.",
         "technologies": ["JavaScript", "HTML", "CSS", "jQuery"],
         "liveLink": "https://alichegini.github.io/object_oriented_game/",
         "githubLink": "https://github.com/AliChegini/object_oriented_game",
@@ -38,8 +38,8 @@
       },
       {
         "id": 5,
-        "name": "Project Five",
-        "description": "Public API Requests",
+        "name": "Public API Requests",
+        "description": "This project demonstrates how to build an app using the Random User Generator API to grab information for 12 random employees, and use that data to build a prototype for an Awesome Startup employee directory.",
         "technologies": ["JavaScript", "HTML", "CSS", "jQuery", "JSON"],
         "liveLink": "https://alichegini.github.io/public_api_request/",
         "githubLink": "https://github.com/AliChegini/public_api_request",
@@ -47,12 +47,12 @@
       },
       {
         "id": 6,
-        "name": "Project Six",
-        "description": "Static Node and Express Web App",
+        "name": "Static Node and Express Web App",
+        "description": "This static web app is a portfolio site built to showcase a few small projects developed with javascript. The web app includes a landing page, an about page with contact information, and details about the developer.",
         "technologies": ["JavaScript", "Node", "Express", "Pug"],
         "liveLink": "",
         "githubLink": "https://github.com/AliChegini/static_node_express_app",
-        "imageUrls": ["images/.png"]
+        "imageUrls": ["images/6.png"]
       }
     ]
   }
