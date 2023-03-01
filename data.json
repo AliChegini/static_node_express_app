@@ -1,31 +1,58 @@
 {
     "projects": [
       {
-        "id": 0,
-        "name": "Project One",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "technologies": ["Node.js", "Express", "Pug"],
-        "liveLink": "https://example.com",
-        "githubLink": "https://github.com/example/project-one",
-        "imageUrls": ["img/project-one-main.png", "img/project-one-1.png", "img/project-one-2.png", "img/project-one-3.png"]
-      },
-      {
         "id": 1,
-        "name": "Project Two",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "technologies": ["", "", ""],
-        "liveLink": "https://example.com",
-        "githubLink": "https://github.com/example/project-two",
-        "imageUrls": ["img/project-two-main.png", "img/project-two-1.png", "img/project-two-2.png", "img/project-two-3.png"]
+        "name": "Project One",
+        "description": "Random Quote Generator",
+        "technologies": ["JavaScript"],
+        "liveLink": "https://alichegini.github.io/random-quote-generator/",
+        "githubLink": "https://github.com/AliChegini/random-quote-generator",
+        "imageUrls": ["images/1.png"]
       },
       {
         "id": 2,
+        "name": "Project Two",
+        "description": "Pagination",
+        "technologies": ["JavaScript", "HTML", "CSS"],
+        "liveLink": "https://alichegini.github.io/list_pagination_and_filtering/",
+        "githubLink": "https://github.com/AliChegini/list_pagination_and_filtering",
+        "imageUrls": ["images/2.png"]
+      },
+      {
+        "id": 3,
         "name": "Project Three",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "technologies": ["HTML", "CSS", "JavaScript"],
-        "liveLink": "https://example.com",
-        "githubLink": "https://github.com/example/project-three",
-        "imageUrls": ["img/project-three-main.png", "img/project-three-1.png", "img/project-three-2.png", "img/project-three-3.png"]
+        "description": "Interactive Form",
+        "technologies": ["JavaScript", "jQuery"],
+        "liveLink": "https://alichegini.github.io/interactive-form/",
+        "githubLink": "https://github.com/AliChegini/interactive-form",
+        "imageUrls": ["images/3.png"]
+      },
+      {
+        "id": 4,
+        "name": "Project Four",
+        "description": "Object Oriented Game",
+        "technologies": ["JavaScript", "HTML", "CSS", "jQuery"],
+        "liveLink": "https://alichegini.github.io/object_oriented_game/",
+        "githubLink": "https://github.com/AliChegini/object_oriented_game",
+        "imageUrls": ["images/4.png"]
+      },
+      {
+        "id": 5,
+        "name": "Project Five",
+        "description": "Public API Requests",
+        "technologies": ["JavaScript", "HTML", "CSS", "jQuery", "JSON"],
+        "liveLink": "https://alichegini.github.io/public_api_request/",
+        "githubLink": "https://github.com/AliChegini/public_api_request",
+        "imageUrls": ["images/5.png"]
+      },
+      {
+        "id": 6,
+        "name": "Project Six",
+        "description": "Static Node and Express Web App",
+        "technologies": ["JavaScript", "Node", "Express", "Pug"],
+        "liveLink": "",
+        "githubLink": "https://github.com/AliChegini/static_node_express_app",
+        "imageUrls": ["images/.png"]
       }
     ]
   }
